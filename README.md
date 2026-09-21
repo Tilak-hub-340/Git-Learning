@@ -22,7 +22,7 @@ git add Filename. file type \[.md, .txt , ...]
 
 git commit -m "meaning full message or commit"
 
-git status 
+git status
 
 
 
@@ -33,7 +33,49 @@ That's perfectly valid. git status is an inspection command, so it can be used w
 
 
 
-**commit** is a meaning full message you want see as a history it like heading of the file 
+**commit** is a meaning full message you want see as a history it like heading of the file
+
+
+
+**WORKFLOW OF GIT** 
 
 &#x20;
+
+Edit
+
+&#x20;↓
+
+git status
+
+&#x20;↓
+
+git diff              ← inspect unstaged changes
+
+&#x20;↓
+
+git add
+
+&#x20;↓
+
+git diff --staged     ← inspect staged changes
+
+&#x20;↓
+
+git commit
+
+&#x20;↓
+
+git status             ← verify clean
+
+
+
+
+
+**Branch ≠ files.**
+
+A branch is a movable pointer to a particular commit/history.
+
+
+
+
 
