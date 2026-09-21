@@ -56,7 +56,7 @@ git commit
 git status             ← verify clean
 
 
-
+Pull practice
 
 
 **Branch ≠ files.**
