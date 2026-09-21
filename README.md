@@ -39,31 +39,19 @@ That's perfectly valid. git status is an inspection command, so it can be used w
 
 **WORKFLOW OF GIT**
 
-&#x20;
-
 Edit
 
-&#x20;↓
 
 git status
 
-&#x20;↓
 
 git diff              ← inspect unstaged changes
 
-&#x20;↓
-
 git add
-
-&#x20;↓
 
 git diff --staged     ← inspect staged changes
 
-&#x20;↓
-
 git commit
-
-&#x20;↓
 
 git status             ← verify clean
 
@@ -76,6 +64,4 @@ git status             ← verify clean
 A branch is a movable pointer to a particular commit/history.
 
 
-
-Git history helps track how a project changes over time.
 
