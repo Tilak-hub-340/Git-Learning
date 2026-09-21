@@ -58,6 +58,8 @@ git status             ← verify clean
 
 Pull practice
 
+Final Challenge 
+
 
 **Branch ≠ files.**
 
