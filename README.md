@@ -12,3 +12,7 @@ Git has three important areas:
 
 Working Directory → Staging Area → Repository
 
+
+
+**git status** tells me what state my working directory and staging area are in.
+
