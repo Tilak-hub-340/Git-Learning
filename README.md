@@ -37,7 +37,7 @@ That's perfectly valid. git status is an inspection command, so it can be used w
 
 
 
-**WORKFLOW OF GIT** 
+**WORKFLOW OF GIT**
 
 &#x20;
 
@@ -77,5 +77,5 @@ A branch is a movable pointer to a particular commit/history.
 
 
 
-
+Git history helps track how a project changes over time.
 
