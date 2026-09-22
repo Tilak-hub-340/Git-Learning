@@ -1,6 +1,10 @@
+
+MAIN VERSION
+FEATURE VERSION 
+
 # Git Day 1
 
-\## What I am learning
+## What I am learning
 
 
 
@@ -66,4 +70,7 @@ Final Challenge
 A branch is a movable pointer to a particular commit/history.
 
 
+Day 2 - Rebase practice
 
+
+Day 2 - Main branch update
