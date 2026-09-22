@@ -67,3 +67,4 @@ A branch is a movable pointer to a particular commit/history.
 
 
 
+Day 2 - Main branch update
